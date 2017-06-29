@@ -14,5 +14,12 @@
       <FileName>Student.cs</FileName>
     </TypeIdentifier>
   </Class>
+  <Class Name="COMP123_S2017_LESSON8B.DomesticStudent">
+    <Position X="5.25" Y="3.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DomesticStudent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
   <Font Name="Segoe UI" Size="9" />
 </ClassDiagram>
