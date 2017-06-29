@@ -10,6 +10,17 @@ namespace COMP123_S2017_LESSON8B
     {
         static void Main(string[] args)
         {
+            Person person = new Person("Sylvere", 18);
+            person.Talks();
+
+            Console.WriteLine("\n");
+
+            Student student = new Student("Bobo", 20, "123456789A");
+            student.Studies();
+            student.Talks();
+
+            Console.WriteLine("\n");
+
         }
     }
 }
